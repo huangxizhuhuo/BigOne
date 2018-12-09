@@ -1,0 +1,11 @@
+Glass 214 9 6
+
+Heart-Statlog
+
+Iris 150 4 3
+
+Vehicle 846 18 4
+
+Wine 178 13 3
+
+XOR
